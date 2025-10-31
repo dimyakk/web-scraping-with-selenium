@@ -19,3 +19,6 @@ __pycache__/
 *.log
 .DS_Store
 Thumbs.db
+
+# Perfiles locales de bots
+*/chrome_profile_xbot/
