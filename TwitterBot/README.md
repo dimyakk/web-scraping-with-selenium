@@ -1,18 +1,18 @@
-# 🐍 TwitterBot – Internet Speed Checker & X (Twitter) Poster
+🐍 TwitterBot – Medidor de Velocidad de Internet y Publicador en X (Twitter)
 
-Automated Python bot that measures your internet download/upload speed and posts the result to **X (Twitter)** using the Tweepy API.
-
----
-
-## 🚀 Features
-- Performs real-time internet speed tests using **Selenium**.
-- Authenticates and posts updates automatically on **X (Twitter)**.
-- Stores API credentials securely using **dotenv**.
-- Designed for easy automation and scheduling.
+Bot automatizado en Python que mide la velocidad de descarga y subida de tu conexión a internet, y publica los resultados en X (Twitter) utilizando la API de Tweepy.
 
 ---
 
-## 🧩 Project Structure
+## 🚀 Funcionalidades
+- Realiza pruebas de velocidad de internet en tiempo real usando **Selenium**.  
+- Se autentica y publica los resultados automáticamente en **X (Twitter)**.  
+- Almacena las credenciales de la API de forma segura usando **dotenv**.  
+- Diseñado para una fácil automatización y programación (scheduler).
+
+---
+
+## 🧩 Estructura del Proyecto
 ```
 TwitterBot/
 ├── main.py
@@ -24,61 +24,61 @@ TwitterBot/
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Instalación
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/dimyakk/TwitterBot.git
-   cd TwitterBot
-   ```
+### 1️⃣ Clonar el repositorio
+```bash
+git clone https://github.com/dimyakk/TwitterBot.git
+cd TwitterBot
+```
 
-2. **Create and activate a virtual environment**
-   ```bash
-   python -m venv .venv
-   .\.venv\Scripts\activate
-   ```
+### 2️⃣ Crear y activar un entorno virtual
+```bash
+python -m venv .venv
+.\.venv\Scripts\activate
+```
 
-3. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
+### 3️⃣ Instalar dependencias
+```bash
+pip install -r requirements.txt
+```
 
-4. **Set up environment variables**
+### 4️⃣ Configurar variables de entorno
+Crea un archivo `.env` en la raíz del proyecto con tus credenciales de la API de Twitter:
 
-   Create a `.env` file in the project root with your Twitter API credentials:
-   ```
-   X_API_KEY=your_api_key
-   X_API_KEY_SECRET=your_api_secret
-   X_ACCESS_TOKEN=your_access_token
-   X_ACCESS_TOKEN_SECRET=your_token_secret
-   ```
+```
+X_API_KEY=tu_api_key
+X_API_KEY_SECRET=tu_api_secret
+X_ACCESS_TOKEN=tu_access_token
+X_ACCESS_TOKEN_SECRET=tu_token_secret
+```
 
 ---
 
-## ▶️ Usage
+## ▶️ Uso
 
-Run the bot manually:
+Ejecutar el bot manualmente:
 ```bash
 python main.py
 ```
 
-Or schedule it with Windows Task Scheduler / Cron for automatic posting.
+O programarlo con **Windows Task Scheduler** o **Cron** para publicar automáticamente.
 
 ---
 
-## 🧠 Technologies Used
-- **Python 3.12**
-- **Selenium**
-- **Tweepy**
-- **python-dotenv**
+## 🧠 Tecnologías Utilizadas
+- Python 3.12  
+- Selenium  
+- Tweepy  
+- python-dotenv  
 
 ---
 
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
+## 📄 Licencia
+Este proyecto es de código abierto y está disponible bajo la licencia **MIT**.
 
 ---
 
-## 👤 Author
+## 👤 Autor
 **Joaquin Dimyakk**  
 GitHub: [@dimyakk](https://github.com/dimyakk)
