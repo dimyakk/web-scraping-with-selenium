@@ -1,13 +1,13 @@
-🐍 TwitterBot – Medidor de Velocidad de Internet y Publicador en X (Twitter)
+# 🐍 TwitterBot – Medidor de Velocidad de Internet y Publicador en X (Twitter)
 
 Bot automatizado en Python que mide la velocidad de descarga y subida de tu conexión a internet, y publica los resultados en X (Twitter) utilizando la API de Tweepy.
 
 ---
 
 ## 🚀 Funcionalidades
-- Realiza pruebas de velocidad de internet en tiempo real usando **Selenium**.  
-- Se autentica y publica los resultados automáticamente en **X (Twitter)**.  
-- Almacena las credenciales de la API de forma segura usando **dotenv**.  
+- Realiza pruebas de velocidad de internet en tiempo real usando **Selenium**.
+- Se autentica y publica los resultados automáticamente en **X (Twitter)**.
+- Almacena las credenciales de la API de forma segura usando **dotenv**.
 - Diseñado para una fácil automatización y programación (scheduler).
 
 ---
@@ -67,10 +67,10 @@ O programarlo con **Windows Task Scheduler** o **Cron** para publicar automátic
 ---
 
 ## 🧠 Tecnologías Utilizadas
-- Python 3.12  
-- Selenium  
-- Tweepy  
-- python-dotenv  
+- Python 3.12
+- Selenium
+- Tweepy
+- python-dotenv
 
 ---
 
@@ -80,5 +80,5 @@ Este proyecto es de código abierto y está disponible bajo la licencia **MIT**.
 ---
 
 ## 👤 Autor
-**Joaquin Dimyakk**  
+**Joaquin Dimyakk**
 GitHub: [@dimyakk](https://github.com/dimyakk)
