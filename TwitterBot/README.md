@@ -80,5 +80,5 @@ Este proyecto es de código abierto y está disponible bajo la licencia **MIT**.
 ---
 
 ## 👤 Autor
-**Joaquin Dimyakk**
+**Joaquin Albano**
 GitHub: [@dimyakk](https://github.com/dimyakk)
