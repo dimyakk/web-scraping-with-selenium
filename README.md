@@ -70,7 +70,7 @@ Algunas ideas futuras:
 
 ## 👤 Autor
 
-**Joaquin Dimyakk**
+**Joaquin Albano**
 📍 Desarrollador en formación – Python, Web Scraping & Automatización
 🔗 GitHub: [@dimyakk](https://github.com/dimyakk)
 
