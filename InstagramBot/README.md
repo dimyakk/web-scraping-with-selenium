@@ -59,7 +59,7 @@ Instagram Bot/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/<TU_USUARIO>/instagram-follower-bot.git
+git clone https://github.com/dimyakk/instagram-follower-bot.git
 cd instagram-follower-bot
 
 # 2. Crear y activar entorno virtual
